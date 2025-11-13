@@ -8,7 +8,8 @@ Bash script to save general hardware and software info from linux pc's to logfil
 ### o- Harddisk model|GiB
 ### o- RAM total|Type|Size
 ### o- Network device|macaddress
-### -> logs data to to Logfile in Location 
+### -> logs data to to Logfile in Location
+
 
 ## siutable for
 
